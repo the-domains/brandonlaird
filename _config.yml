@@ -1,0 +1,28 @@
+name: BrandonLaird
+favicon: null
+layout_spectrum: 0.5340224523097277
+typography_spectrum: 0.4201029445976019
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.36460697767324746
+  lightness: 0.7364807839039713
+  saturation: 0.8475578187499195
+  rhythmicContrast: 0.5189931050408632
+purpose: []
